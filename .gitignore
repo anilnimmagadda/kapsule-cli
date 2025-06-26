@@ -1,9 +1,28 @@
-venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
-*.pyd
-.DS_Store
-*.egg-info/
-*.txt
+
+# Environments
+venv/
+.env
+*.env
+
+# Binaries and Keys
 *.bin
+*.key
+
+# Test and Temp files
+message.txt
+decrypted.txt
+*.log
+
+# OS & Editor Junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Git
+*.swp
+*.swo
