@@ -110,6 +110,15 @@ Follow the project:
 
 ---
 
+## Contributing & Roadmap
+
+We welcome community contributions!
+
+- [How to contribute](CONTRIBUTING.md)
+- [Project roadmap](ROADMAP.md)
+
+---
+
 ## License
 
 Open-source and community-first.
